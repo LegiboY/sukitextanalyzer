@@ -1,0 +1,31 @@
+BEIJING - China’s Internet regulator and other government bodies last week announced new measures to regulate generative artificial intelligence (AI), putting an emphasis on public-facing products and preventing subversion.
+
+While there had been concerns that Beijing’s onerous rules could be the biggest stumbling block in developing AI capability, analysts say the new regulations are necessary and appear less onerous compared with a previous draft made public.
+
+The new rules, which will come into effect on Aug 15, are the latest to target AI. 
+
+In 2021, Beijing unveiled measures to ensure recommendation algorithms – one of the most widely used forms of AI in Chinese daily life, especially on shopping apps – do not engage in excessive price discrimination, such as by listing only pricier products, while protecting the rights of workers.
+
+The next rules to follow, in 2022, required all AI-generated content to carry a label identifying it as artificially generated.
+
+In the latest guidelines targeting generative AI like ChatGPT, both the training data and output will have to be “true and accurate”, a multi-ministry statement said. 
+
+This affects only organisations that provide publicly accessible services such as generating text, pictures, audio and visuals. Major tech firms like Baidu, Alibaba and JD.com have not released their generative-AI software for public use, but will fall under such regulations.
+
+“The provision and use of generative-artificial intelligence services shall abide by laws and administrative regulations... (and) adhere to the core values of socialism,” said the regulations, adding that generated content cannot incite subversion of state power or secession, or endanger national security.
+
+“Based on the characteristics of the service type, take effective measures to improve the transparency of generative artificial intelligence services and improve the accuracy and reliability of generated content,” the guidelines said. 
+
+With China at the forefront of exploring AI for consumer uses, such rules are necessary to ensure regulation can keep up with technology, said Professor Huang Guangbin of Nanyang Technological University.
+
+“It is well known that generative AI can self-improve and will eventually take over certain functions, so there’s a need for regulation and technology to develop in tandem,” said Prof Huang, who is also the founder of AI solutions firm Mind PointEye. 
+
+The authorities must strike a delicate balance about how much regulation to impose at any point because too much at an early stage can stifle creativity, but too little could mean technology, once widespread, can become hard to control. 
+
+“Given how there are already regulations for algorithms and deepfakes, this is the logical next step, given the amount of applied-use research going on in China and the number of consumer-facing products being rolled out,” said Prof Huang. 
+
+Rolling out a series of more targeted rules also means Chinese regulators are building up regulatory capacity and bureaucratic know-how, wrote Carnegie Endowment for International Peace fellow Matt Sheehan in a working paper about Chinese AI regulation.  
+
+Currently, most developers are also required to register their algorithms in a national registry, which could provide the basic infrastructure for a national AI law in future. 
+
+“Any country, company or institution that hopes to compete against, cooperate with, or simply understand China’s AI ecosystem must examine (Beijing’s AI policymaking) moves closely,” Mr Sheehan added. 

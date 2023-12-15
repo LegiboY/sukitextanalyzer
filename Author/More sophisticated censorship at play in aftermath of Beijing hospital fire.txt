@@ -1,0 +1,49 @@
+BEIJING - When a hospital in a busy Beijing suburb caught fire last Tuesday, news of the fiery blaze appeared online only about eight hours later.
+
+The lapse seemed impossible in the age of smartphones and social media.
+
+But the initial blanket ban – and subsequent deletion of videos related to the fire – illustrates how China has refined its censorship apparatus, experts say. 
+
+The Covid-19 pandemic, a deadly fire in a Xinjiang apartment complex in November 2022 and the subsequent protests it triggered have also offered Internet administrators multiple opportunities to fine-tune their information control techniques.
+
+Shortly after news of the Beijing fire broke close to 9pm last Tuesday, searches for the term “Beijing Changfeng hospital fire” were banned on social media platform Weibo, and returned a message that results could not be found “according to relevant laws, regulations and policies”. 
+
+When videos of the fire started surfacing on Tuesday, they were taken down within minutes, only to be replaced by new posts – a cat and mouse game between Internet users and censors that went on all night.
+
+Searches on other sites like Baidu and Sohu showed numerous results, but closer inspection revealed that these were all state-linked or state-aligned media reporting in line with the government’s narrative. Comments that the authorities’ information could not be trusted as they had tried to keep the fire under wraps for hours were also deleted. 
+
+“The direction of censorship on search platforms, including social media platforms such as Weibo and Douyin, seems to be to, instead of blocking all results for a query, selectively show results from authorised sources so that the presence of censorship is less obvious,” said Mr Jeffrey Knockel, a senior research associate specialising in censorship at The Citizen Lab under the University of Toronto Munk School of Global Affairs and Public Policy. 
+
+While the fire, which has claimed 29 lives so far, was the biggest news of the day, netizens noted that it never became a trending topic on Weibo. 
+
+Beijing has placed the responsibility on tech firms to ensure that only “suitable content” is allowed on their platforms, subjecting them to hefty fines for violations. 
+
+Since 2022, websites and social media platforms have been also responsible for reviewing comments before they are published, to make sure there is no offensive content. 
+
+At a popular social media and e-commerce platform with hundreds of millions of active monthly users, thousands of moderators review content flagged by the algorithm, said a government relations executive who asked not to be named.
+
+“Sometimes there are instructions in the form of a list of ‘forbidden words’, depending on the climate at the time, but mostly it’s companies having to figure out what is allowed and what isn’t,” she said. 
+
+In the case of the recent hospital fire, content from a certain geographical area had possibly been banned from getting uploaded, or certain keywords were blocked until a pre-determined time, the executive added.
+
+Undergraduate Kelly Xiao said she is frustrated that China’s Internet has been reduced to a space for people to talk about vapid things like shopping and the latest food and fashion trends. 
+
+“When you look at Western social media platforms such as Reddit, people have actual discussions there about topics that can be quite informative, but you’d never be able to have that in China,” said the 20-year-old, who is studying finance at an American university.
+
+“You either can’t even post comments or your account can be suspended, even if information is privately shared,” she said. 
+
+Last year, superapp WeChat – which is used for everything from work communications to payment and health tracking – suspended hundreds of users for sharing footage of a one-man protest on Sitong Bridge in Beijing and barred them from participating in group chats or adding new friends.
+
+On the day of an important twice-in-a-decade political meeting, the man had unfurled a banner on an overhead bridge protesting against the leadership of Chinese President Xi Jinping.
+
+Pictures of the incident, mostly shot by motorists and commuters, quickly circulated among chat groups and between friends. 
+
+The platform barred the images from being forwarded, and took the drastic step of penalising certain users, leading to a number of netizens – desperate to get their accounts back – posting open apologies on other social media platforms. It is unclear whether the moves worked. 
+
+Besides the simple banning of certain keywords, censorship at China’s tech giants has become increasingly sophisticated. Artificial intelligence means algorithms now recognise pictures and videos that are deemed problematic, and take them out of circulation immediately.
+
+But there is also incentive for firms to ensure the censorship is less obvious, said The Citizen Lab’s Mr Knockel. 
+
+“Part of the increase in sophistication is that there is also a lot of business incentive for the platform operators to create the illusion that there is no censorship. If you perform a search and there are no search results, then the user might switch to and try the search on another platform,” he said.
+
+“The platform operators are naturally motivated to try to keep users on their platforms as long as possible.” 

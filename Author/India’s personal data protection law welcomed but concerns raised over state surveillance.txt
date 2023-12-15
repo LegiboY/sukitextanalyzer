@@ -1,0 +1,53 @@
+NEW DELHI – Amid longstanding concerns over the rampant use of personal data in India, a new law to address the issue is seen as a major step for the nation’s digital economy, estimated to grow sixfold to touch US$1 trillion (S$1.36 trillion) by 2030.
+
+The Digital Personal Data Protection Act, which received presidential assent on Aug 11, gives individuals the legal power to deny or grant approval for the use of their personal data.
+
+Under the Act, written consent is required for the use of personal data, defined as “any data about an individual who is identifiable by or in relation to such data”. Personal data has to be deleted when its purpose has been fulfilled or consent is withdrawn, according to the new law.
+
+The Data Protection Board will look into any violation, with penalties ranging from 10,000 rupees to 25 million rupees (S$160 to S$408,000) to be paid to the Consolidated Fund of India, a government account. This includes failing to put in “reasonable security safeguards” to prevent breaches.
+
+The Act also gives the government, including any of its agencies, the right to access personal data without consent under national security interests, which civil society and opposition members argue gives scope for increased state surveillance.
+
+Legal experts and rights groups have underlined their concern about the law, especially over the potential for unfettered government surveillance.
+
+“It (the law) prescribes duties for those who collect data, and confers rights on those whose data is collected. But it also grants unchecked powers to the government, including to exempt entities from having to comply with the law, block services and demand disclosure of information,” said Ms Namrata Maheshwari, Asia-Pacific policy counsel at Access Now, a non-profit organisation working on digital rights.
+
+India’s Internet economy is estimated to expand sixfold to US$1 trillion by 2030 amid growing demand for digital products and services, according to a joint research report released on June 6 by Google, Singapore’s investment company Temasek and global management consulting firm Bain and Company.
+
+The report estimated that India’s Internet economy was in the range of US$155 billion to US$175 billion in 2022. 
+
+According to the report, entitled The e-Conomy Of A Billion Connected Indians, the growth of the Internet economy will be driven by the growth of digital businesses and Indians making more transactions online.
+
+Against this backdrop, cyber lawyer and expert Pavan Duggal noted that it is crucial for India to have a data protection law, which comes six years after a landmark Supreme Court ruling that privacy is a fundamental right of every citizen.
+
+“The data protection law is a remarkable step forward for the reason that for the first time in India, the country has legislation for protection of data. This assumes significance because people are inundated with calls from all kinds of entities,” he said.
+
+But he added: “This law doesn’t define anything that is criminal in nature. An individual can’t go to the police. There is no encouragement for users to come under the law.”
+
+In March this year, police in the southern city of Hyderabad arrested seven people who were allegedly involved in the theft and sale of sensitive data such as mobile numbers, identification cards and the e-mail addresses of 160 million Indians, including defence personnel.
+
+Another issue brought up by rights groups is how the data protection Act will impact the Right to Information Act 2005, which allows citizens to pose questions to government departments on a wide range of issues, including about government employees.
+
+Activists said government departments, many of which remain sparse with information, will now have an additional reason to deny sharing details when requested.
+
+The government has said the law balances the rights of individuals with those of big tech firms as well as security considerations. It has also dismissed criticism that the authorities have unfettered access to personal data.
+
+Minister for Communications and Electronics and Information Technology Ashwini Vaishnaw told The Indian Express newspaper: “The way we have prepared the law, it has adequate safeguards for citizens. A lot of the fear against the government’s power comes from citizens’ experience with previous governments.
+
+“But that is not the case today. People have a lot of trust in our government.”
+
+Minister of State for Electronics and Information Technology Rajeev Chandrasekhar told The Times of India that government entities will be liable for any data breach and that any dispute will be adjudicated by the Data Protection Board. Its members will be appointed for two years by the government.
+
+India is now among 160 countries with data protection laws.
+
+Industry bodies have welcomed the new law. Ms Debjani Ghosh, president of the National Association of Software and Service Companies, said it “marks a significant leap forward... to establish a robust framework for personal data protection and build India as a trusted data destination”.
+
+Still, Ms Shahana Chatterji, a partner at law firm Shardul Amarchand Mangaldas and Co, said it remains to be seen how the new law will help shape the digital economy.
+
+She noted that the Act aims “to strike a delicate balance between protecting user rights and creating an enabling business environment in India” and address industry concerns around cross-border data flows.
+
+An earlier version of the law had put restrictions on cross-border data flows, eliciting blowback from big tech companies such as Google, Meta and Amazon. They store a lot of data overseas including in Europe and the United States, which host major data centres. 
+
+“It might be too soon to determine the impact this legislation may have on the growth of the wider digital economy. Given its sector-agnostic approach, the impact certainly will be high, but we will have to wait and see how this law is ultimately implemented,” she added.
+
+“Subordinate legislation and the role that the Data Protection Board will play will be critical to this.”
